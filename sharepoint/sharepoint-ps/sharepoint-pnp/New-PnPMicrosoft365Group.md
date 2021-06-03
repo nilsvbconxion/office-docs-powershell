@@ -217,6 +217,9 @@ Accept pipeline input: False
 Accept wildcard characters: False
 ```
 
+## Outputs
+Group-object
+
 ## RELATED LINKS
 
 [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp)[Documentation](https://docs.microsoft.com/graph/api/group-post-groups)
